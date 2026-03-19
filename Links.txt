@@ -1,0 +1,3 @@
+Links:
+https://www.kaggle.com/code/hyunseokc/detecting-early-alzheimer-s/input?select=oasis_longitudinal.csv
+https://www.kaggle.com/code/hyunseokc/detecting-early-alzheimer-s/input?select=oasis_cross-sectional.csv
